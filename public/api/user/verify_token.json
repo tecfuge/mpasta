@@ -1,0 +1,15 @@
+{
+  "status": true,
+  "user": {
+    "firstName": "Nibin",
+    "lastName": "John",
+    "email": "rockingnibin@gmail.com",
+    "address": {
+      "phone": "+971 501234567",
+      "city": "Dubai",
+      "area": "Marina",
+      "address": "703, One Lake Plaza, Cluster T, JLT"
+    }
+  },
+  "token": "1234567890"
+}

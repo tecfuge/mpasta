@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "result": {
+    "userExists": false,
+    "hasOpportunity": false,
+    "opportunities": [],
+    "userInfo": null,
+    "opportunityId": null
+  }
+}
