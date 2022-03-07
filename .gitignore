@@ -11,8 +11,6 @@
 # production
 /build
 
-# production
-/mammas_backend
 
 # misc
 .DS_Store
